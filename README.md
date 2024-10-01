@@ -12,7 +12,7 @@ data preprocessing options. No need to worry about repetitive tasks — just run
 ---
 
 # Screenshots 
-! [My Image](CLI Screenshot.png)
+! [My Image](https://github.com/anshulmarathe3/Machine-Learning-Preprocessing-CLI/blob/main/CLI%20Screenshot.png)
 
 
 
