@@ -12,7 +12,9 @@ data preprocessing options. No need to worry about repetitive tasks — just run
 ---
 
 #Screenshots 
-![My Image](image.jpg)
+![My Image](CLI Screenshot.png)
+
+
 
 
 
